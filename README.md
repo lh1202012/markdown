@@ -10,5 +10,5 @@
 ****
 你好，我叫刘恒
 ****
-[![bjtu](https://bjtu.edu.cn/images/content/2019-04/20190402105918265869.jpg)](https://github.com/lh1202012/markdown/edit/master/source/20190322161732714204.jpg)
+[![bjtu](https://bjtu.edu.cn/images/content/2019-04/20190402105918265869.jpg)](https://github.com/lh1202012/markdown/master/source/20190322161732714204.jpg)
 ——————
